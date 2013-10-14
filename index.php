@@ -1,3 +1,3 @@
 <?php
 
-echo 'hello';
+include './inc.php';
