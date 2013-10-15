@@ -1,1 +1,4 @@
-<h1>TITLE</h1>
+<h1>my new TITLE</h1>
+<?php
+
+include_once './class.php';
