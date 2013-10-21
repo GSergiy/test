@@ -2,3 +2,4 @@
 <?php
 
 include_once './class.php';
+include_once './mg.php';
